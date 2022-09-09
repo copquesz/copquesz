@@ -67,6 +67,3 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=copquesz&show_icons=true&theme=dracula)
