@@ -1,5 +1,13 @@
-# Hi 👋🏼, I am Lucas Copque
-26 years old, full stack developer, computer science graduate from the Universidade São Judas Tadeu (USJT) and technology lover!
+# Hi 👋🏼, I am Lucas Copque.
+I'm 28 years old, from São Paulo and Beni's father.
+
+With more than six years of experience as a software engineer, I currently work as coordinator of 7 development teams at Mobiauto. My goal is to ensure effectiveness, efficiency and excellence throughout the planning and production flow. In addition, I am responsible for defining goals and strategies to reach them, selecting, mentoring and developing people, and contributing to the definition of products.
+
+I have extensive experience in software architecture and quality, as well as a solid understanding of integrated processes and project and people management. I am passionate about being in a position to make strategic decisions, aligning goals with a long-term vision.
+
+My technical expertise spans a variety of technologies that encompass planning, management, development, automation pipelines, monitoring, observability and quality.
+
+I am a results-oriented professional, dedicated and always attentive to market needs and emerging technologies, but I am also meticulous in evaluating the specific needs of each application. With my passion for technology, leadership and education, I seek challenges that allow me to apply my knowledge and drive innovation.
 
 &nbsp;
 
