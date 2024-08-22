@@ -93,8 +93,6 @@ I am a results-oriented professional, dedicated and always attentive to market n
 
 <div name ="stats">
   <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=copquesz&theme=radical"/>
-  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=copquesz&theme=radical"/>
-  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=copquesz&theme=radical"/>
 </div>
 
 ## ✍️ Latest Medium Articles
