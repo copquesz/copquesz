@@ -89,3 +89,37 @@ I am a results-oriented professional, dedicated and always attentive to market n
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+## 📊 Github Stats
+
+<div name ="stats">
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=copquesz&theme=radical"/>
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=copquesz&theme=radical"/>
+  <img src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=copquesz&theme=radical"/>
+</div>
+
+## ✍️ Latest Medium Articles
+ 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@copque/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@copque/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@copque/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@copque/2" alt="Recent Article 2"> 
+
+## 🏆 Github Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=copquesz&theme=radical&title=MultiLanguage,Stars,Commits,Repositories,Experience,Followers,PullRequest,Issues)](https://github.com/copquesz/github-profile-trophy)
+
+<!---
+## 🥽 3-D Contribution graph
+
+<img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+ ## :octocat: Github Unwrapped 2023 (Click to see the full 🎥)
+<div align="center">
+   <a href="https://vimeo.com/897888293">
+    <img src="https://github.com/MaheshBabu11/MaheshBabu11/blob/main/assets/unwrapped.gif" alt="unwrapped 2023" height="500" width="400">
+  </a>
+</div> -->
+
+
+
+
+
